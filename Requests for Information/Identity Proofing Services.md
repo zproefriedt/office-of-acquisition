@@ -21,6 +21,7 @@ TTS Identity Proofing Services
 | RFI Closing Date | Wednesday, October 28, 2020 at Close of Business, 6 pm EST |
 | RFI Posting Location | Github |
 | Targeted Vendors | GSA MAS Schedule Holders |
+| Responses | Submit responses to the Google Form linked [here](https://forms.gle/TBDVsLEPY2G3u5ax6) by the closing date/time. |
 
 TTS is seeking vendors in one of the following, but not limited to, (Information Technology-IT Solutions) GSA MAS Schedule Categories:
   * 541519CDM Continuous Diagnostics and Mitigation (CDM) Tools
@@ -32,8 +33,6 @@ TTS is seeking vendors in one of the following, but not limited to, (Information
   * Other??
 
 Although we are currently seeking vendors that have a GSA MAS Schedule contract, we are also accepting information on capable vendors outside of the Schedule program for market research purposes. In your response to the RFI please identify if your company is on other government-wide contract vehicles, such as GWACs, SEWP, etc and/or has prior federal experience.
-
-Submit responses to the Google Form linked [here](https://forms.gle/TBDVsLEPY2G3u5ax6) by the closing date/time. 
  
 Any questions concerning this RFI should be submitted by at least 24 hours before the due date. Questions may be submitted via email to megan.reed@gsa.gov and lora.zuo@gsa.gov. 
  
