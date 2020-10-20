@@ -20,7 +20,8 @@ TTS Identity Proofing Services
 | RFI Posting Date | Tuesday, October 20, 2020 |
 | RFI Closing Date | Wednesday, October 28, 2020 at Close of Business, 6 pm EST |
 | RFI Posting Location | Github |
-| Targeted Vendors | GSA MAS Schedule Holders 
+| Targeted Vendors | GSA MAS Schedule Holders |
+
 TTS is seeking vendors in one of the following, but not limited to, (Information Technology-IT Solutions) GSA MAS Schedule Categories:
   * 541519CDM Continuous Diagnostics and Mitigation (CDM) Tools
   * 541519ICAM Identity, Credentialing and Access Management (ICAM)
@@ -29,12 +30,13 @@ TTS is seeking vendors in one of the following, but not limited to, (Information
   * 517312 Wireless Mobility Solutions
   * 561450 Business Information Services 
   * Other??
- | Other Sources Sought | Although we are currently seeking vendors that have a GSA MAS Schedule contract, we are also accepting information on capable vendors outside of the Schedule program for market research purposes. In your response to the RFI please identify if your company is on other government-wide contract vehicles, such as GWACs, SEWP, etc and/or has prior federal experience. |
- | RFI Response Location | Submit responses to the Google Form linked (here)[https://forms.gle/TBDVsLEPY2G3u5ax6] by the closing date/time. 
+
+Although we are currently seeking vendors that have a GSA MAS Schedule contract, we are also accepting information on capable vendors outside of the Schedule program for market research purposes. In your response to the RFI please identify if your company is on other government-wide contract vehicles, such as GWACs, SEWP, etc and/or has prior federal experience. |
+RFI Response Location | Submit responses to the Google Form linked [here](https://forms.gle/TBDVsLEPY2G3u5ax6) by the closing date/time. 
  
 Any questions concerning this RFI should be submitted by at least 24 hours before the due date. Questions may be submitted via email to megan.reed@gsa.gov and lora.zuo@gsa.gov. 
  
-Vendors should note that, while we will attempt to do so, TTS may not be able to respond to all questions concerning the RFI. Any Q&A responses will be posted to GitHub. There is also a RFI notice posted on eBuy under #RFQ1464826 for the above Schedule Category Numbers. |
+Vendors should note that, while we will attempt to do so, TTS may not be able to respond to all questions concerning the RFI. Any Q&A responses will be posted to GitHub. There is also a RFI notice posted on eBuy under #RFQ1464826 for the above Schedule Category Numbers.
 
 ## Instructions
 
@@ -84,8 +86,8 @@ The following are high-level objectives for this potential procurement.
 
 GSA IT may require documentation attesting to the below standards depending on the vendor deployment method:
 
-1. [NIST SP800-63-3A)](NIST Special Publication 800-63A)
-2. [NIST SP800-171 Rev 2](SP 800-171 Rev. 2, Protecting CUI in Nonfederal Systems and Organizations)
+1. [NIST SP800-63-3A)](https://pages.nist.gov/800-63-3/sp800-63a.html)
+2. [NIST SP800-171 Rev 2](https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final)
 3. FedRAMP Moderate
 
 All data must reside and/or be processed in the United States. 
