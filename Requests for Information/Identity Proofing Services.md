@@ -31,8 +31,9 @@ TTS is seeking vendors in one of the following, but not limited to, (Information
   * 561450 Business Information Services 
   * Other??
 
-Although we are currently seeking vendors that have a GSA MAS Schedule contract, we are also accepting information on capable vendors outside of the Schedule program for market research purposes. In your response to the RFI please identify if your company is on other government-wide contract vehicles, such as GWACs, SEWP, etc and/or has prior federal experience. |
-RFI Response Location | Submit responses to the Google Form linked [here](https://forms.gle/TBDVsLEPY2G3u5ax6) by the closing date/time. 
+Although we are currently seeking vendors that have a GSA MAS Schedule contract, we are also accepting information on capable vendors outside of the Schedule program for market research purposes. In your response to the RFI please identify if your company is on other government-wide contract vehicles, such as GWACs, SEWP, etc and/or has prior federal experience.
+
+Submit responses to the Google Form linked [here](https://forms.gle/TBDVsLEPY2G3u5ax6) by the closing date/time. 
  
 Any questions concerning this RFI should be submitted by at least 24 hours before the due date. Questions may be submitted via email to megan.reed@gsa.gov and lora.zuo@gsa.gov. 
  
@@ -96,9 +97,9 @@ All data must reside and/or be processed in the United States.
 
 At a minimum, the following provisions and clauses will be incorporated into the potential solicitation and final award: 
 
-* FAR 52.204-24 Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment (AUG 2020)
+* FAR 52.204-24, Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment (AUG 2020)
 * FAR 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment (AUG 2020)
-* FAR 52.204-26 Covered Telecommunications Equipment or Services-Representation (Dec 2019)
+* FAR 52.204-26, Covered Telecommunications Equipment or Services-Representation (Dec 2019)
 * GSAR 552.204-70, Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment (AUG 2019)
 
 ## Basis of Award and Evaluation
