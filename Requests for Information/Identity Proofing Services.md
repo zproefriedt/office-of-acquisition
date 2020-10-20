@@ -18,10 +18,10 @@ TTS Identity Proofing Services
 | Subject | Information |
 | ------------- | ------------- |
 | RFI Posting Date | Tuesday, October 20, 2020 |
-| RFI Closing Date | Friday, October 23, 2020 at Close of Business, 6 pm EST |
+| RFI Closing Date | Wednesday, October 28, 2020 at Close of Business, 6 pm EST |
 | RFI Posting Location | Github |
-| Targeted Vendors | **GSA MAS Schedule Holders** 
-* Seeking vendors in one of the following, but not limited to, (Information Technology-IT Solutions) Categories:
+| Targeted Vendors | GSA MAS Schedule Holders 
+TTS is seeking vendors in one of the following, but not limited to, (Information Technology-IT Solutions) GSA MAS Schedule Categories:
   * 541519CDM Continuous Diagnostics and Mitigation (CDM) Tools
   * 541519ICAM Identity, Credentialing and Access Management (ICAM)
   * 541519PIV Homeland Security Presidential Directive 12 Product and Service Components
@@ -76,7 +76,7 @@ The following are high-level objectives for this potential procurement.
 | ------------- | ------------- | ------------- | ------------- |
 | 1 | Identity proof an individual that meets NIST standards (remote, in-person, or hybrid) | 1.1 | Capability can demonstrate NIST 800-63A compliance through an accredited certification body (IAL2)b|
 | 1 | Same as above | 1.2 | Demonstrate a pass rate that exceeds 85% of applicants in production |
-! 2 | Proposed system can integrate via standardized communications protocols | 2.1 | Integration with GSA will be via APIs or Open ID Connect protocols |
+| 2 | Proposed system can integrate via standardized communications protocols | 2.1 | Integration with GSA will be via APIs or Open ID Connect protocols |
 | 3 | Proposed will be cost-effective to the government | 3.1. | Costing by transaction attempts with volume tiering |
 | 3 | Same as above | 3.2 | Optional costing for successful transactions with volume tiering |
 
@@ -84,8 +84,8 @@ The following are high-level objectives for this potential procurement.
 
 GSA IT may require documentation attesting to the below standards depending on the vendor deployment method:
 
-1. (NIST SP800-63-3A)[NIST Special Publication 800-63A]
-2. (NIST SP800-171 Rev 2)[SP 800-171 Rev. 2, Protecting CUI in Nonfederal Systems and Organizations]
+1. [NIST SP800-63-3A)](NIST Special Publication 800-63A)
+2. [NIST SP800-171 Rev 2](SP 800-171 Rev. 2, Protecting CUI in Nonfederal Systems and Organizations)
 3. FedRAMP Moderate
 
 All data must reside and/or be processed in the United States. 
@@ -94,21 +94,18 @@ All data must reside and/or be processed in the United States.
 
 At a minimum, the following provisions and clauses will be incorporated into the potential solicitation and final award: 
 
-FAR 52.204-24 Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment (AUG 2020)
+* FAR 52.204-24 Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment (AUG 2020)
+* FAR 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment (AUG 2020)
+* FAR 52.204-26 Covered Telecommunications Equipment or Services-Representation (Dec 2019)
+* GSAR 552.204-70, Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment (AUG 2019)
 
-FAR 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment (AUG 2020)
-
-FAR 52.204-26 Covered Telecommunications Equipment or Services-Representation (Dec 2019)
-
-GSAR 552.204-70, Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment (AUG 2019)
-
-##Basis of Award and Evaluation
+## Basis of Award and Evaluation
 
 To be determined. 
 
 ## Questions for Feedback
 
-Please provide your feedback using the google form (here)[https://forms.gle/TBDVsLEPY2G3u5ax6]. Below are the questions that will be asked in the form. While it is not required to respond to all questions, the more information we gather the better it is for our market research and further development of this potential requirement. Thank you!
+Please provide your feedback using the google form [here](https://forms.gle/TBDVsLEPY2G3u5ax6). Below are the questions that will be asked in the form. While it is not required to respond to all questions, the more information we gather the better it is for our market research and further development of this potential requirement. Thank you!
 
 ### Basic Information
 
