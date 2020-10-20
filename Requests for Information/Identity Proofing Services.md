@@ -58,7 +58,7 @@ The Identity Program Office is looking to acquire solutions that enable identity
 
 The Program Office requires a vendor or service provider to provide identity verification for online services. We are aiming to improve our current total success rate while adhering to NIST standards.  The successful vendor should be able to fill in the gaps in performance by enabling in-person proofing or alternative remote methods to improve coverage.  
 
-Our current remote proofing capability utilizes a web SDK to capture an applicants, government issued photo ID and requests the user to take a headshot photo.  The system performs a match on those pictures and then requests the user to provide their date of birth, social security number and mobile number for verification.  This process meets the NIST SP 800-63-3 standard but does not pass all valid applicants.  
+Our current remote proofing capability utilizes a web SDK to capture an applicant's government-issued photo ID and requests the user to take a headshot photo.  The system performs a match on those pictures and then requests the user to provide their date of birth, social security number and mobile number for verification.  This process meets the NIST SP 800-63-3 standard but does not pass all valid applicants.  
 
 We are looking to supplement this existing process with additional capabilities with the goal of being able to identify the full American public to include in-person verification solutions as well as hybrid remote/video session capabilities.  
 
